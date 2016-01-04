@@ -1,0 +1,41 @@
+
+Reflections on FC
+
+Tool to compare files and easily find put the additions, changes and deletions on a file.
+
+Helps to understand if something is wrong between versions of files / programs.
+
+I did not know it existed in Windows.
+
+By having easy access to the entire history of a file, I can see:
+
+1) Progress
+2) Changes done in each file
+3) Find mistakes, improvements, new requirements.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, 
+vs having versions automatically saved, like Google Docs does?
+
+Pro's - You decide when to commit and thus you are in control of the changes you want to keep track off.
+Con's - If you abuse on the commit you will end with huge versions of the code and will have a hard time to find something.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+
+Because they were designed to ease a documentation, programming, writing process. Tools like Google Docs are more
+a Repository type of application.
+
+How can you use the commands git log and git diff to view the history of files?
+
+- Git Log is a useful command to review which changes, additions or modifications were done in each commit done with GitHub.
+
+- Git Diff will help to review / assess the changes done between commits.
+
+How might using version control make you more confident to make changes that could break something?
+
+- Using Git and version control I can easily fidn changes in the files and code I do, so if by mistake I introduce a
+code that is wrong in a version, finding the problem is easy.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+- To keep track of changes on my developments mainly.
