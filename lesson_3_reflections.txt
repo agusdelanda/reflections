@@ -21,4 +21,11 @@ What is the benefit of having a copy of the last known state of the remote store
 
 While working on a real world and with collaboration conflicts or changes to files will ocurr, so having a copy of the last known state will save a lot of work and also avoid problems.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Using e-mails and meetings and also some type of control using spreadsheets.
+
+It would be much more difficult, the easy part is not doing all the Git 
+commands.
+
 
