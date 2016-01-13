@@ -28,4 +28,10 @@ Using e-mails and meetings and also some type of control using spreadsheets.
 It would be much more difficult, the easy part is not doing all the Git 
 commands.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I would like to do changes in a separate branch if I am to include new functionality that I do not want to be reflected in the master or to test something in the original code.
+
+The benefits are that I would not cause problems to the code being worked on.
+
 
